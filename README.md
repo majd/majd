@@ -1,6 +1,6 @@
 ## I’m [Majd Alfhaily](https://alfhaily.me/).
 
-I'm a software engineer who enjoys developing for various platforms, including Web, macOS, and iOS.
+I'm a software engineer who enjoys developing for various platforms, including iOS, macOS and web.
 
 I'm currently part of the wonderful team at [**Blinkist**](https://www.blinkist.com). Before that, I was revolutionizing the banking experience at [**N26**](https://n26.com/en-eu). I also worked on the **Porsche Product App** at [**Porsche**](https://www.porsche.com/germany/).
 
