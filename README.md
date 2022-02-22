@@ -5,5 +5,5 @@ I'm a software engineer who enjoys developing for various platforms, including i
 ---
 
 <sup>
-<a href="https://keybase.io/majd/pgp_keys.asc">PGP Key</a> — F832 966B E89E FA66 EF92 927F 8C56 BA3E B1A1 BF8C
+GPG Key — 5C63 6C75 B368 C247 8276 AF97 4479 AF43 1FE0 BEEF
 </sup>
