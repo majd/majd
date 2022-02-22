@@ -5,5 +5,5 @@ I'm a software engineer who enjoys developing for various platforms, including i
 ---
 
 <sup>
-GPG Key — 5C63 6C75 B368 C247 8276 AF97 4479 AF43 1FE0 BEEF
+PGP Key — 5C63 6C75 B368 C247 8276 AF97 4479 AF43 1FE0 BEEF
 </sup>
