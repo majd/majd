@@ -1,4 +1,4 @@
-## Hi, I’m [Majd](https://alfhaily.me/).
+## Hey, I’m [Majd](https://alfhaily.me/)! 👋
 
 I'm a software engineer who enjoys developing for various platforms, including iOS, macOS and web.
 
